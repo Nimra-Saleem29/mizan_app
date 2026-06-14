@@ -1,0 +1,40 @@
+CONSTITUTION OF PAKISTAN 1973 — FUNDAMENTAL RIGHTS
+
+ARTICLE 9 — SECURITY OF PERSON
+No person shall be deprived of life or liberty save in accordance with law.
+Remedy for violation: Habeas Corpus petition under Article 199 in High Court.
+
+ARTICLE 10 — SAFEGUARDS ON ARREST
+Every arrested person must be produced before a magistrate within 24 hours.
+Must be informed of grounds of arrest immediately.
+Cannot be compelled to be witness against himself.
+
+ARTICLE 10A — RIGHT TO FAIR TRIAL
+Every person is entitled to fair trial and due process.
+Guarantees: impartial tribunal, right to be heard, right to legal counsel.
+
+ARTICLE 13 — PROTECTION AGAINST DOUBLE PUNISHMENT
+No person shall be prosecuted for same offence more than once (double jeopardy).
+No person shall be compelled to be witness against himself (self-incrimination).
+Confessions obtained through torture are inadmissible in court.
+
+ARTICLE 14 — DIGNITY OF MAN
+Dignity of man is inviolable. Privacy of home is inviolable.
+No person shall be subjected to torture to extract evidence.
+Police torture violates Article 14. FIR can be filed against police officers.
+
+ARTICLE 25 — EQUALITY OF CITIZENS
+All citizens are equal before law and entitled to equal protection of law.
+No discrimination on basis of sex, religion, caste, or race.
+
+ARTICLE 199 — HIGH COURT JURISDICTION (Constitutional Petitions)
+High Court can issue writs:
+- Habeas Corpus: produce unlawfully detained person
+- Mandamus: compel performance of public duty
+- Certiorari: quash illegal orders of inferior courts
+File petition under Article 199 when fundamental rights are violated.
+
+ARTICLE 184(3) — SUPREME COURT JURISDICTION
+Any citizen can file Human Rights Case directly in Supreme Court.
+For matters of public importance involving fundamental rights.
+Supreme Court can take suo motu action on fundamental rights violations.
